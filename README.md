@@ -12,7 +12,7 @@ Digital Fabrication class by Prof. N. Tai.\
 ```
 
 Being able to quantify things is essential while learning any new language → and generally quite cool, too.\
-Combining visual and auditory — spoken by mother-tongue speaker — sensory feedback at the push of an arcade style button, learning to count from 0 to 10 in Korean, Japanese, Chinese, Hindi, German and Polish is now easy and fun.\
+Combining visual and auditory — spoken by mother-tongue speaker — sensory feedback at the push of an arcade style button, learning to count from 0 to 10 in Korean, Japanese, Chinese, Hindi, German and Polish is now easy and fun.
 
 ### video
 [![counterculture](https://github.com/yaronzimmermann/counterculture/blob/master/images/screenshot.png)](https://vimeo.com/322227320 "counterculture - click to watch!")
