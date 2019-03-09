@@ -19,7 +19,10 @@ Combining visual and auditory — spoken by mother-tongue speaker — sensory fe
 ### user test
 ![xenia](https://github.com/yaronzimmermann/counterculture/blob/master/images/ntut_counterculture_xenia_01_small.png "Xenia")
 
+### overly complicated looking circuit diagram
+![fritzing](https://github.com/yaronzimmermann/counterculture/blob/master/fritzing/ntut_counterculture_04_bb.png)
 
 ### note
-I used an Arduino Mega since I had one laying around and a very limited time-frame.\
+- I used an Arduino Mega since I had one laying around and a very limited time-frame.\
 With regard to audio quality I'd recommend using a Teensy with built-in DAC instead.
+- For lasercutting the box I used 5mm MDF. Takeing into account the kerf of the laser, I offset the vector path's generated from Sketchup by .19mm in Adobe Illustrator.
