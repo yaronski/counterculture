@@ -17,11 +17,11 @@ Combining visual and auditory — spoken by mother-tongue speaker — sensory fe
 
 ### video
 [![counterculture](https://github.com/yaronzimmermann/counterculture/blob/master/images/screenshot.png)](https://vimeo.com/322227320 "counterculture - click to watch!")
-\
+
 
 ### user test
 ![xenia](https://github.com/yaronzimmermann/counterculture/blob/master/images/ntut_counterculture_xenia_01_small.png "Xenia")
-\
+
 
 ### note
 I used an Arduino Mega since I had one laying around and a very limited time-frame.\
