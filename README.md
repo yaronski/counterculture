@@ -21,7 +21,7 @@ _counterculture_ is a device I built with the help of many others during my time
 ![xenia](https://github.com/yaronzimmermann/counterculture/blob/master/images/ntut_counterculture_xenia_01_small.png "Xenia")
 
 
-### over-complicatedly drawn circuit diagram
+### complicatedly drawn circuit diagram
 ![fritzing](https://github.com/yaronzimmermann/counterculture/blob/master/fritzing/ntut_counterculture_04_bb.png)
 
 
