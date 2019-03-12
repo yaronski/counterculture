@@ -8,6 +8,7 @@
 ```
 
 Being able to quantify things is essential while learning any new language → and generally quite cool, too.\
+
 Combining visual and auditory — spoken by a mother-tongue speaker — sensory input at the push of an arcade style button, learning to count from 0 to 10 in Korean, Japanese, Chinese, Hindi, German and Polish is now easy and fun.
 
 _counterculture_ is a device I built with the help of many others during my time at the National Taiwan University of Technology (NTUT) in Taipei. → Digital Fabrication class by Prof. N. Tai. → 2018/19.
