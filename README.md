@@ -7,7 +7,7 @@
 »No, but I can count to 10 in Chinese!«
 ```
 
-Being able to quantify things is essential while learning any new language → and generally quite cool, too.\
+Being able to quantify things is essential while learning any new language → and generally quite cool, too.
 
 Combining visual and auditory — spoken by a mother-tongue speaker — sensory input at the push of an arcade style button, learning to count from 0 to 10 in Korean, Japanese, Chinese, Hindi, German and Polish is now easy and fun.
 
