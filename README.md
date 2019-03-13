@@ -13,12 +13,11 @@ Combining visual and auditory — spoken by a mother-tongue speaker — sensory 
 _counterculture_ is a device I built with the help of many others during my time at the National Taiwan University of Technology (NTUT) in Taipei. → Digital Fabrication class by Prof. N. Tai. → 2018/19.
 
 
+![device](https://github.com/yaronzimmermann/counterculture/blob/master/fritzing/device_closeup.png)
+
+
 ### video
 [![counterculture](https://github.com/yaronzimmermann/counterculture/blob/master/images/screenshot.png)](https://vimeo.com/322227320 "counterculture - click to watch!")
-
-
-### quality control
-![xenia](https://github.com/yaronzimmermann/counterculture/blob/master/images/ntut_counterculture_xenia_01_small.png "Xenia")
 
 
 ### complicatedly drawn circuit diagram
@@ -28,5 +27,14 @@ _counterculture_ is a device I built with the help of many others during my time
 ### construction notes
 - For lasercutting the box with teeth and slots I used 5mm MDF. Takeing into account the kerf of the laser, the vector path's generated from Sketchup must be offset by around .19mm. However the exact value might vary depending on the speed used for cutting.
 - WAV Audio files must be a 16000 Hz Mono track in unsigned 8-bit PCM format to work with the [TMRpcm](https://github.com/TMRh20/TMRpcm/wiki) library
-- Here I used an Arduino Mega since I had one laying around and a very limited time-frame.\
-With regard to audio quality, using a Teensy with built-in DAC instead might be better.
+- An Arduino Mega was used since I had one laying around and a very limited time-frame.\
+With regard to audio quality, using a Teensy with built-in DAC would be an improvement.
+- While you're at it, add a repeat functionality for the most recent number played.
+- files in the _rdworks_ folder contain files for the laser mashine controlling software RDWorks. If you use a different software and a different laser cutter, the settings will vary most likely anyway. Text shapes are being engraved at high speed and low power, while the edges of the box are cut at low speed and high power. For the pieces to release easily it might help programming the laser to continue moving a tiny bit beyond the actual end of the line. 
+- Adobe Illustrator artboards are in A3 size, since A3 sheets of 5mm MDF were used.
+- the folder »audio« found in in _sdcard_ needs to be placed in the root directory of the FAT32 sd card plugged into the slot of the sd card reader module.
+
+![ai](https://github.com/yaronzimmermann/counterculture/blob/master/illustrator/artboard.png)
+
+### quality controle
+![xenia](https://github.com/yaronzimmermann/counterculture/blob/master/images/ntut_counterculture_xenia_01_small.png "Xenia")
