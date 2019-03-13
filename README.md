@@ -32,7 +32,7 @@ With regard to audio quality, using a Teensy with built-in DAC would be an impro
 - While you're at it, add a repeat functionality for the most recent number played.
 - files in the _rdworks_ folder contain files for the laser cutter controlling software »RDWorks«. If you use a different software and a different laser cutter, the settings will vary most likely anyway. Text shapes are being engraved at high speed and low power, while the edges of the box are cut at low speed and high power. For the pieces to come off easily, it might help programming the laser to continue moving a tiny bit beyond the actual end of the line. 
 - Adobe Illustrator artboards are in A3 size, since A3 sheets of 5mm MDF were used.
-- The folder »audio« found in in _sdcard_ needs to be placed in the root directory of the FAT32 sd card plugged into the slot of the sd card reader module.
+- The folder »audio« found in _sdcard_ needs to be placed in the root directory of the FAT32 sd card plugged into the slot of the sd card reader module.
 
 ![ai](https://github.com/yaronzimmermann/counterculture/blob/master/illustrator/artboard_example.png)
 
