@@ -34,7 +34,7 @@ With regard to audio quality, using a Teensy with built-in DAC would be an impro
 - Adobe Illustrator artboards are in A3 size, since A3 sheets of 5mm MDF were used.
 - The folder »audio« found in _sdcard_ needs to be placed in the root directory of the FAT32 sd card plugged into the slot of the sd card reader module.
 
-![ai](https://github.com/yaronzimmermann/counterculture/blob/master/illustrator/preview_artboard_example.png)
+![ai](https://github.com/yaronzimmermann/counterculture/blob/master/illustrator/preview artboard example.png)
 
 ### quality controle
 ![xenia](https://github.com/yaronzimmermann/counterculture/blob/master/images/ntut_counterculture_xenia_01_small.png "Xenia")
