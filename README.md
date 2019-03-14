@@ -13,7 +13,7 @@ Combining visual and auditory — spoken by a mother-tongue speaker — sensory 
 _counterculture_ is a device I built with the help of many others during my time at the National Taiwan University of Technology (NTUT) in Taipei. → Digital Fabrication class by Prof. N. Tai. → 2018/19.
 
 
-![device](https://github.com/yaronzimmermann/counterculture/blob/master/fritzing/device_closeup.png)
+![device](https://github.com/yaronzimmermann/counterculture/blob/master/images/device_closeup.png)
 
 
 ### video
