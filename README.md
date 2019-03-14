@@ -26,7 +26,7 @@ _counterculture_ is a device I built with the help of many others during my time
 
 ### construction notes
 - For lasercutting the box with teeth and slots, MDF sheets of 5mm thickness were used. Takeing into account the kerf of the laser, the vector path's generated from Sketchup must be offset by around .19mm. However the exact value might vary depending on the speed used for cutting.
-- Each WAV Audio file must be a 16000 Hz Mono track in the unsigned 8-bit PCM format to work with the [TMRpcm](https://github.com/TMRh20/TMRpcm/wiki) library
+- Each audio file must be a in a 16000 Hz mono, unsigned 8-bit PCM WAV format to work with the [TMRpcm](https://github.com/TMRh20/TMRpcm/wiki) library. For me, this was the only format that worked perfectly fine.
 - An Arduino Mega board was used, since I had one laying around and a very limited time-frame.\
 With regard to audio quality, using a Teensy with built-in DAC would be an improvement.
 - While you're at it, add a repeat functionality for the most recent number played.
