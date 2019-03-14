@@ -17,7 +17,7 @@ _counterculture_ is a device I built with the help of many others during my time
 
 
 ### video
-[![counterculture](https://github.com/yaronzimmermann/counterculture/blob/master/images/screenshot.png)](https://vimeo.com/322227320 "counterculture - click to watch!")
+[![counterculture](https://github.com/yaronzimmermann/counterculture/blob/master/images/video.png)](https://vimeo.com/322227320 "counterculture - click to watch!")
 
 
 ### complicatedly drawn circuit diagram
