@@ -31,7 +31,7 @@ _counterculture_ is a device I built with the help of many others during my time
 However, a Teensy with built-in DAC or an Arduino MKR Zero with an I2S bus and compatibility with the [Arduino Sound library](https://www.arduino.cc/en/Reference/ArduinoSound) would make things simpler and be an improvement with regard to audio quality.\
 Also, why not just use a [MAX08357 I2S Amp Breakout board](https://www.adafruit.com/product/3006) instead of building an amplifier circuit from scratch.
 - While you're at it, add a repeat functionality for the most recent number played.
-- files in the _rdworks_ folder contain files for the laser cutter controlling software »RDWorks«. If you use a different software and a different laser cutter, the settings will vary most likely anyway. Text shapes are being engraved at high speed and low power, while the edges of the box are cut at low speed and high power. For the pieces to come off easily, it might help programming the laser to continue moving a tiny bit beyond the actual end of the line. 
+- Files in the _rdworks_ folder contain files for the laser cutter controlling software »RDWorks«. If you use a different software and a different laser cutter, the settings will vary most likely anyway. Text shapes are being engraved at high speed and low power, while the edges of the box are cut at low speed and high power. For the pieces to come off easily, it might help programming the laser to continue moving a tiny bit beyond the actual end of the line. 
 - Adobe Illustrator artboards are in A3 size, since A3 sheets of 5mm MDF were used.
 - The folder »audio« found inside the folder »sdcard« needs to be placed in the root directory of the FAT32 formatted SD card which is plugged in the slot of the SD card reader module.
 
