@@ -28,7 +28,7 @@ _counterculture_ is a device I built with the help of many others during my time
 - For lasercutting the box with teeth and slots, MDF sheets of 5mm thickness were used. Takeing into account the kerf of the laser, the vector path's generated from Sketchup must be offset by around .19mm. However the exact value might vary depending on the speed used for cutting.
 - Each audio file must be a in a 16000 Hz mono, unsigned 8-bit PCM WAV format to work with the [TMRpcm](https://github.com/TMRh20/TMRpcm/wiki) library. For me, this was the only format that worked perfectly fine.
 - An Arduino Mega board was used, since I had one laying around and a very limited time-frame.\
-With regard to audio quality, using a Teensy with built-in DAC would be an improvement.
+With regard to audio quality, using a Teensy with built-in DAC or an Arduino MKR Zero with an I2S bus would make things simpler and an improvement in audio quality.
 - While you're at it, add a repeat functionality for the most recent number played.
 - files in the _rdworks_ folder contain files for the laser cutter controlling software »RDWorks«. If you use a different software and a different laser cutter, the settings will vary most likely anyway. Text shapes are being engraved at high speed and low power, while the edges of the box are cut at low speed and high power. For the pieces to come off easily, it might help programming the laser to continue moving a tiny bit beyond the actual end of the line. 
 - Adobe Illustrator artboards are in A3 size, since A3 sheets of 5mm MDF were used.
