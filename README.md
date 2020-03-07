@@ -24,7 +24,7 @@ Digital Fabrication class by Prof. N. Tai, 2018/19.
 [![counterculture](https://github.com/yaronzimmermann/counterculture/blob/master/images/video.png)](https://vimeo.com/322227320 "counterculture - click to watch!")
 
 
-### complicatedly drawn circuit diagram
+### highly complicated circuit diagram
 ![fritzing](https://github.com/yaronzimmermann/counterculture/blob/master/fritzing/ntut_counterculture_04_bb.png)
 
 
@@ -41,5 +41,5 @@ Also, why not just use a [MAX08357 I2S Amp Breakout board](https://www.adafruit.
 
 ![ai](https://github.com/yaronzimmermann/counterculture/blob/master/illustrator/preview_artboard_example.png)
 
-### quality controle
+### quality control
 ![xenia](https://github.com/yaronzimmermann/counterculture/blob/master/images/ntut_counterculture_xenia_01_small.png "Xenia")
