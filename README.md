@@ -29,7 +29,7 @@ Digital Fabrication class by Prof. N. Tai, 2018/19.
 
 
 ### construction notes
-- For lasercutting the box with teeth and slots, MDF sheets of 5mm thickness were used. Takeing into account the kerf of the laser, the vector path's generated from Sketchup must be offset by around .19mm. However the exact value might vary depending on the speed used for cutting.
+- For lasercutting the box with teeth and slots, MDF sheets of 5mm thickness were used. Taking into account the kerf of the laser, the vector path's generated from Sketchup must be offset by around .19mm. However the exact value might vary depending on the speed used for cutting.
 - Each audio file must be a in a 16000 Hz mono, unsigned 8-bit PCM WAV format to work with the [TMRpcm](https://github.com/TMRh20/TMRpcm/wiki) library. For me, this was the only format that worked perfectly fine.
 - The circuit was built around an Arduino Mega board since I had one laying around and a very limited time-frame.\
 However, a Teensy with built-in DAC or an Arduino MKR Zero with an I2S bus and compatibility with the [Arduino Sound library](https://www.arduino.cc/en/Reference/ArduinoSound) would make things simpler and be an improvement with regard to audio quality.\
