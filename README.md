@@ -11,8 +11,6 @@ You:
 Being able to quantify is essential while learning a new language. Also, it's cool.\
 Combining visual and auditory sensory input at the push of an arcade style button, learning to count from 0 to 10 in Korean, Japanese, Chinese, Hindi, German and Polish is now easy and fun.
 
-device I invented & built during my time at the National Taiwan University of Technology (NTUT) in Taipei (→ electronics Mecca!!) 
-
 _counterculture_ is a device I invented & built to encourage starting to learn a new language and have some fun with electronics. A project realized during my stay at the National Taiwan University of Technology (NTUT) in Taipei.\
 Digital Fabrication class by Prof. N. Tai, 2018/19.
 
